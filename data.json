@@ -1,0 +1,13 @@
+{
+  "name": "MyPortfolio",
+  "nickname": "John Doe",
+  "title": "Full Stack Developer",
+  "description": "I am a passionate developer specializing in building modern web applications using JavaScript, React, and Node.js.",
+  "image": "https://your-image-link.com/profile.jpg",
+  "socials": {
+    "linkedin": "https://linkedin.com/in/johndoe",
+    "github": "https://github.com/johndoe",
+    "twitter": "https://twitter.com/johndoe",
+    "instagram": "https://instagram.com/johndoe"
+  }
+}
